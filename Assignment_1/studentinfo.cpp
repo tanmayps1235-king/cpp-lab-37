@@ -4,7 +4,7 @@ using namespace std;
 class student{
     private:
     string name;
-    int rollNO;
+    int rollNo;
     float marks;
 
     public:
@@ -18,9 +18,9 @@ class student{
     }
     void displayDetails()const{
         cout<<"\n----Student Details----\n";
-        cout<<"Name:"<<name<<end1;
-        cout<<"Roll No.:"<<rollNo<<end1;
-        cout<<"Marks:"<<marks<<end1;
+        cout<<"Name:"<<name<<endl;
+        cout<<"Roll No.:"<<rollNo<<endl;
+        cout<<"Marks:"<<marks<<endl;
     }
 };
 int main(){
