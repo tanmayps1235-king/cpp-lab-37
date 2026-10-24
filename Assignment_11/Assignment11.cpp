@@ -1,4 +1,3 @@
-
 // C++ program to demonstate the use of try,catch and throw in exception handling. 
 #include <iostream> 
 using namespace std; 
